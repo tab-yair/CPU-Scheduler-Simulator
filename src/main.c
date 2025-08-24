@@ -1,4 +1,4 @@
-#include "CPU-Scheduler.c"  // או את השם המדויק של הקובץ שלך
+#include "CPU-Scheduler.c"  
 
 int main(int argc, char* argv[]) {
     if (argc < 3) {
